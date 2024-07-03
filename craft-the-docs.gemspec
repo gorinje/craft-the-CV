@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
     spec.add_runtime_dependency "jekyll", "~> 4.0"
   
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "https://github.com/Makerspace-Amiens/craft-the-docs"
+    spec.metadata["source_code_uri"] = "https://github.com/Makerspace-Amiens/craft-the-docs.git"
     spec.metadata["changelog_uri"] = "https://github.com/Makerspace-Amiens/craft-the-docs/CHANGELOG.md"
   end
   
