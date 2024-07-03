@@ -1,13 +1,8 @@
-repository: Makerspace-Amiens/CraftTheDocs-V1.0
-
-theme: just-the-docs
 title: CraftTheDocs V1.0
-color_scheme: custom_scheme
+description: Craft your docs at MakerSpace Amiens
+theme: just-the-docs
 
-# Custom settings
-just_the_docs:
-  logo: "/assets/images/your-logo.png"
-  # other custom settings
+color_scheme: custom_scheme
 
 # Include custom CSS
 sass:
