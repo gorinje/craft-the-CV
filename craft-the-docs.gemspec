@@ -11,6 +11,8 @@ Gem::Specification.new do |spec|
       f.match(%r{^(test|spec|features)/})
     end
     spec.files         += Dir.glob('assets/**/*')
+    spec.files         += Dir.glob('_layouts/**/*')
+    spec.files         += Dir.glob('_includes/**/*')
     spec.files         += Dir.glob('_sass/**/*')
   
     spec.add_runtime_dependency "jekyll", "~> 3.9"
