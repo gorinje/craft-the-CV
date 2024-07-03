@@ -1,0 +1,12 @@
+theme: just-the-docs
+title: CraftTheDocs V1.0
+color_scheme: custom_scheme
+
+# Custom settings
+just_the_docs:
+  logo: "/assets/images/your-logo.png"
+  # other custom settings
+
+# Include custom CSS
+sass:
+  sass_dir: _sass
