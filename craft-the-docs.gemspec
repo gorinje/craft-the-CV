@@ -13,7 +13,6 @@ Gem::Specification.new do |spec|
     spec.files         += Dir.glob('assets/**/*')
   
     spec.add_runtime_dependency "jekyll", "~> 3.9"
-    spec.add_runtime_dependency "just-the-docs", "~> 0.8.2"
   
     spec.metadata["homepage_uri"] = spec.homepage
     spec.metadata["source_code_uri"] = "https://github.com/Makerspace-Amiens/craft-the-docs"
