@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
     end
     spec.files         += Dir.glob('assets/**/*')
   
-    spec.add_runtime_dependency "jekyll", "~> 3.9.5"
+    spec.add_runtime_dependency "jekyll", "~> 3.9"
     spec.add_runtime_dependency "just-the-docs", "~> 0.8.2"
   
     spec.metadata["homepage_uri"] = spec.homepage
