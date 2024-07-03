@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    my-theme (0.1.0)
+      jekyll (~> 3.9.5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -271,6 +277,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   just-the-docs
+  my-theme!
   webrick
 
 BUNDLED WITH
