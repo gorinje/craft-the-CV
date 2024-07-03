@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
     spec.authors       = ["Adrien Bracq"]
     spec.email         = ["adrien.bracq@unilasalle.fr"]
     spec.summary       = "Craft your docs - Based on Just The Docs"
-    spec.homepage      = "makerspace-amiens.fr/craft-the-docs/"
+    spec.homepage      = "https://makerspace-amiens.fr/craft-the-docs/"
     spec.license       = "MIT"
   
     spec.files         = `git ls-files -z`.split("\x0").reject do |f|
