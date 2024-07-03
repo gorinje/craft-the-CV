@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Craft The Docs est un thème hérité de Just The Docs permettant la documentation au sein du MakerSapce d'UniLaSalle Amiens"
 permalink: /
 ---
 
