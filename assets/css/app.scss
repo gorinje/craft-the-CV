@@ -1,0 +1,13 @@
+---
+---
+@import url("https://fonts.googleapis.com/css?family=Montserrat");@font-face {
+    font-family: "Indivisa Text Sans-Regular";
+    src: url("../fonts/Indivisa Text Sans-Regular.ttf")
+}
+
+$family-primary: "Indivisa Text Sans-Regular",sans-serif;
+$primary: #ef2e31;
+$link: #ef2e31;
+$footer-padding: 2rem 1.5rem 2rem;
+// Import Main CSS file from theme
+@import "main";

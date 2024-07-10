@@ -5,6 +5,8 @@ theme: bulma-clean-theme
 url: https://github.com/Makerspace-Amiens/CraftTheDocs-V1.0
 
 force_theme: light
-theme_color: '#333333'
 permalink: pretty
-footer_menu: example_footer_menu
+footer_menu: footer_navigation
+lang: fr
+theme_color: '#ef2e31'
+fixed_navbar: top
