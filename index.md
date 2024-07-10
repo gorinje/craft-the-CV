@@ -1,9 +1,12 @@
 ---
-layout: home
+layout: page
 title: Home
-nav_order: 1
 description: "Craft The Docs est un thème hérité de Just The Docs permettant la documentation au sein du MakerSapce d'UniLaSalle Amiens"
-permalink: /
+sidebar: false
+menubar_toc: true
+toc_title: Custom Title
+footer_menu: example_footer_menu
+menubar: menu_bar
 ---
 
 # Focus on writing good documentation

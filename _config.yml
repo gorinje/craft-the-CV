@@ -3,3 +3,8 @@ description: Craft your docs for the MakerSpace Amiens
 theme: bulma-clean-theme
 
 url: https://github.com/Makerspace-Amiens/CraftTheDocs-V1.0
+
+force_theme: light
+theme_color: '#333333'
+permalink: pretty
+footer_menu: example_footer_menu
