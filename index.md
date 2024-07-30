@@ -1,32 +1,94 @@
 ---
 layout: page
-title: Home
-description: "Craft The Docs est un thème hérité de Just The Docs permettant la documentation au sein du MakerSapce d'UniLaSalle Amiens"
+title: Qui suis-je?
+description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 show_sidebar: false
 menubar: menu_bar
 footer_menu: example_footer_menu
 ---
 
-## C'est quoi le "MakerSpace" ?
+![Votre photo](image.png)
 
-Le [Makerspace](https://fr.wikipedia.org/wiki/Makerspace) est un espace de co-conception et de prototypage intégré au sein d'UniLaSalle Amiens. Il est ouvert librement aux publics du campus, à savoir les étudiants et le personnels. 
+# Prénom NOM
+Elève ingénieur en [préciser sa spécialité]
 
-C'est un lieu de rencontre et d'apprentissage permettant à chacun de concevoir, fabriquer et partager ses projets. Il s'inscrit dans la lignée de la [culture Maker](https://fr.wikipedia.org/wiki/Culture_maker) et de la philosophie des [FabLab](https://fr.wikipedia.org/wiki/Fab_lab) dont il en est la source. A ce titre, la connaissance y est partagée et nous incitons à l'autonomie des publics dans la réalisation des projets et chacun peut travailler seul ou en groupe sur son propre sujet, qu'il soit personnel ou lié à l'activité de l'école.
+Candidature pour préciser le contrat visé
+Préciser ici le poste visé
 
-Enfin, le Makerspace est un outil pédagogique fort et ancré dans l'école. Il doit permettre l'émergence de nouveaux usages dans la formations des étudiants et doit simplifier la mise en œuvre des projets pédagogiques. Il vient également en appui à la vie étudiante et à l'accompagnement des clubs et associations du campus. 
+Disponible XX mois à partir de Date
 
-## Accès et horaires :
+## Formation 
 
-Le Makerspace est accessible librement **chaque semaine** le **mercredi** de **18h à 21h** et le **jeudi** de **13h30 à 18h**. *(Dans le cadre de projets personnels, chacun est responsable du matériel et des ressources pour sa réalisation.)*
+`20XX – 20XX`
+**Nom de votre école**
 
-Un atelier peut être organisé chaque semaine (perfectionnement, initiation, découverte technique, etc...).
+Elève ingénieur en [préciser la spécialité]
+* Cours : préciser les cours en phase avec le poste visé
 
-Le reste de la semaine est dédié aux créneaux de TP et projets associés au Makerspace.
+`20XX – 20XX`
+**DUT [préciser la spécialité]** - Université [préciser le lieu]
+* Cours : préciser les cours en phase avec le poste visé
 
-## Notes :
+`20XX`
+Bac [préciser la spécialité], mention éventuelle, Lieu
 
-- [Definition Makerspace](https://fr.wikipedia.org/wiki/Makerspace)
-- [Culture Maker - Wikipedia](https://fr.wikipedia.org/wiki/Culture_maker)
-- [FabLab](https://fr.wikipedia.org/wiki/Fab_lab)
+## Expériences
+
+    Expériences en [spécialité à préciser]
+
+`20XX` **Projet d’étude – préciser le thème du projet**
+
+_Réalisé en équipe de XX étudiants_
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+
+`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+
+_Stage – intitulé du poste_
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+
+
+    **Autres Expériences**
+
+
+`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+
+_Stage – intitulé du poste_
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+
+`20XX` **Association, description de l’asso., taille**
+
+_Intitulé du poste dans une équipe de XX membres_
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+## Autres compétences
+
+Langues
+* LV1 à préciser : niveau à préciser (résultat d’examen)
+* LV2 à préciser : niveau à préciser (résultat d’examen)
+
+Informatique
+* Logiciels maitrisés
+* Logiciels maitrisés
+
+Autres
+* Autres diplômes ou permis spéciaux
+
+## Centres d’intérêt
+
+Loisirs 1
+* Description 
+* Description 
+
+Loisirs 1
+* Description 
+* Description 
+
 
 ---
