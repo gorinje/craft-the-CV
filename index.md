@@ -9,7 +9,7 @@ footer_menu: example_footer_menu
 
 ![Votre photo](image.png)
 
-# Prénom NOM TEst
+# Prénom NOM
 Elève ingénieur en [préciser sa spécialité]
 
 Candidature pour préciser le contrat visé
